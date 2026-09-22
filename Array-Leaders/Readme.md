@@ -59,22 +59,17 @@ By traversing from right to left, we can maintain this maximum in a single varia
 ```java
 class Solution {
     static ArrayList<Integer> leaders(int arr[]) {
-        
-        ArrayList<Integer> ans = new ArrayList<>();
-        
-        int maxRight = arr[arr.length - 1];
-        ans.add(maxRight);
-        
-        for (int i = arr.length - 2; i >= 0; i--) {
-            
-            if (arr[i] >= maxRight) {
+        // code here
+        ArrayList<Integer> ans=new ArrayList<>();
+        int max=arr[arr.length-1];
+        ans.add(max);
+        for(int i=arr.length-2;i>=0;i--){
+            if(arr[i]>=max){
                 ans.add(arr[i]);
-                maxRight = arr[i];
+                max=arr[i];
             }
         }
-        
         Collections.reverse(ans);
-        
         return ans;
     }
 }
