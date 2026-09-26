@@ -1,233 +1,575 @@
-# 💻 Geeks Solutions
+<div align="center">
 
-### 🚀 My Data Structures & Algorithms Journey
+# `NITIN.DEV` ⚡
 
-Welcome to my **GeeksforGeeks Solutions** repository! 👋
+### GEEKSFORGEEKS // DATA STRUCTURES // ALGORITHMS
 
-This repository contains my solutions to coding problems that I solve while learning and improving my **Data Structures & Algorithms (DSA)** skills.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=1800&pause=700&color=2F8D46&center=true&vCenter=true&width=760&lines=LEARN.+SOLVE.+UNDERSTAND.+REPEAT.;BUILDING+DSA%2C+ONE+PROBLEM+AT+A+TIME.;JAVA+%7C+DSA+%7C+PROBLEM+SOLVING" alt="Typing animation">
 
-The goal is simple:
+<br>
 
-> **Learn → Solve → Understand → Improve → Repeat 🔥**
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY_LEARNING-00D084?style=for-the-badge&labelColor=0b0f14">
+<img src="https://img.shields.io/badge/PLATFORM-GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0b0f14">
+<img src="https://img.shields.io/badge/STACK-JAVA-FFB000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0b0f14">
 
----
+<br><br>
 
-## 📚 What You'll Find Here
+> **This isn't just a collection of solved problems.**
+>
+> **It's a public log of how I learn to think.**
 
-This repository contains solutions to problems from different DSA topics:
-
-* 🔢 Arrays
-* 🔍 Searching
-* 🔄 Sorting
-* 🔗 Linked List
-* 📚 Stack
-* 🚶 Queue
-* 🌳 Trees
-* 🌐 Graphs
-* 🔁 Recursion
-* 🧮 Mathematics
-* 📝 Strings
-* 💡 Dynamic Programming
-* ⚡ And more...
+</div>
 
 ---
 
-## 🗂️ Repository Structure
+<div align="center">
 
-Each problem has its own folder containing only the **solution code** and **README**.
+## ◈ THE CORE LOOP
+
+### `LEARN` → `THINK` → `CODE` → `DEBUG` → `OPTIMIZE` → `UNDERSTAND` → `MASTER`
+
+</div>
+
+---
+
+## 🧠 `01 // WHY THIS REPO EXISTS`
+
+I use this repository to document my **GeeksforGeeks + DSA learning journey**.
+
+Every solved problem is a checkpoint — not the finish line.
+
+My focus is on:
+
+* understanding the concept before solving
+* recognizing the pattern behind a problem
+* writing clean Java solutions
+* learning from wrong approaches
+* analyzing time and space complexity
+* improving problem-solving skills
+* building strong DSA fundamentals
+* converting concepts into reusable logic
 
 ```text
-geeks-solutions/
-│
-├── Array-Leaders/
-│   ├── ArrayLeaders.java
-│   └── README.md
-│
-├── Value-Equal-to-Position/
-│   ├── ValueEqualToPosition.java
-│   └── README.md
-│
-├── Two-Sum/
-│   ├── TwoSum.java
-│   └── README.md
-│
-└── ...
+        ┌──────────────┐
+        │    CONCEPT   │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    PROBLEM   │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    PATTERN   │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    LOGIC     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │     CODE     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │  COMPLEXITY  │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │  UNDERSTAND  │
+        └──────────────┘
 ```
 
 ---
 
-## 🧠 Problem Format
+## ⚡ `02 // LEARNING SIGNAL`
 
-Every problem folder follows a simple structure:
+<div align="center">
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/OPEN_GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+</a>
+
+<a href="https://github.com/nitindataops">
+<img src="https://img.shields.io/badge/OPEN_GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+### `PRACTICE → SOLVE → REVISE → REPEAT`
+
+</div>
+
+> **Every problem solved is another step toward stronger problem-solving.**
+
+---
+
+## 🧩 `03 // PRACTICE PIPELINE`
+
+<div align="center">
 
 ```text
-Problem-Name/
+                 ┌──────────────────────┐
+                 │       🧑‍💻 YOU       │
+                 │    Learn the Topic   │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │   🟢 GEEKSFORGEEKS   │
+                 │   Practice Problem   │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │      🧠 THINK       │
+                 │   Find the Pattern  │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │       ☕ JAVA       │
+                 │   Write the Logic   │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │      🐙 GITHUB      │
+                 │   Save the Journey  │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │     📚 REVISION     │
+                 │   Learn from Code   │
+                 └──────────────────────┘
+```
+
+</div>
+
+**One solved problem → one more concept understood.**
+
+---
+
+## 🗂️ `04 // REPOSITORY ARCHITECTURE`
+
+The repository is organized around **DSA topics and problem-solving practice**.
+
+```text
+geeksforgeeks-solutions/
 │
-├── Solution.java
+├── arrays/
+│   ├── reverse-array/
+│   ├── rotate-array/
+│   ├── move-zeroes/
+│   └── maximum-subarray/
+│
+├── strings/
+│   ├── reverse-string/
+│   ├── palindrome/
+│   └── frequency-count/
+│
+├── searching/
+│   ├── linear-search/
+│   └── binary-search/
+│
+├── sorting/
+│   ├── bubble-sort/
+│   ├── selection-sort/
+│   └── insertion-sort/
+│
+├── linked-list/
+├── stack/
+├── queue/
+├── recursion/
+├── trees/
+├── graphs/
+├── hashing/
+├── greedy/
+├── dynamic-programming/
+│
 └── README.md
 ```
 
-### 📄 Solution File
-
-Contains the clean solution submitted for the problem.
-
-### 📖 README File
-
-Contains:
-
-* Problem statement
-* Approach
-* Explanation
-* Code
-* Dry run
-* Time complexity
-* Space complexity
-* Key concept
-
----
-
-## 📊 DSA Progress
-
-| Topic                  |       Problems |
-| ---------------------- | -------------: |
-| 🔢 Arrays              | 🔄 In Progress |
-| 🔍 Searching           | 🔄 In Progress |
-| 🔄 Sorting             | 🔄 In Progress |
-| 📝 Strings             | 🔄 In Progress |
-| 🔗 Linked List         | 🔄 In Progress |
-| 📚 Stack               | 🔄 In Progress |
-| 🚶 Queue               | 🔄 In Progress |
-| 🌳 Trees               | 🔄 In Progress |
-| 🌐 Graphs              | 🔄 In Progress |
-| 💡 Dynamic Programming | 🔄 In Progress |
-
-> This table will be updated as I continue solving problems.
-
----
-
-## 💻 Language
-
-Currently solving problems primarily using:
+### Every problem is a checkpoint.
 
 ```text
-☕ Java
-```
-
-More languages may be added as I progress.
-
----
-
-## 🎯 Goals
-
-My DSA goals are:
-
-* ✅ Build strong problem-solving skills
-* ✅ Understand DSA concepts deeply
-* ✅ Improve coding efficiency
-* ✅ Learn different approaches to problems
-* ✅ Practice regularly
-* ✅ Prepare for technical interviews
-* ✅ Become a better software developer
-
----
-
-## 📈 My Learning Approach
-
-For every problem, I try to follow this process:
-
-```text
-Problem
-   ↓
-Understand
-   ↓
-Think of Approach
-   ↓
-Write Code
-   ↓
-Dry Run
-   ↓
-Analyze Complexity
-   ↓
-Submit
-   ↓
-Learn from Mistakes
+/problem
+    │
+    ├── approach
+    ├── java-solution
+    ├── complexity
+    └── learning
 ```
 
 ---
 
-## 🔥 Progress Mindset
-
-I believe consistency is more important than solving everything quickly.
+## 🎮 `05 // DSA SKILL TREE`
 
 ```text
-Day 1   → Learn
-Day 10  → Practice
-Day 30  → Improve
-Day 100 → Stronger
-Day 365 → Much Better 🚀
-```
-
-Every solved problem is one step forward.
-
----
-
-## 🌱 Currently Learning
-
-* Data Structures & Algorithms
-* Java
-* Problem Solving
-* Object-Oriented Programming
-* Web Development
-* Full-Stack Development
-
----
-
-## ⭐ Repository Highlights
-
-✨ Clean folder structure
-✨ Simple explanations
-✨ Java solutions
-✨ Dry runs for important problems
-✨ Complexity analysis
-✨ Beginner-friendly notes
-✨ Continuous updates
-
----
-
-## 🤝 Contributions
-
-This repository is primarily for my personal DSA learning and practice.
-
-If you find a better approach or notice an issue, feel free to share your suggestions.
-
----
-
-## 📌 Note
-
-These solutions are written for **learning and practice purposes**.
-
-I recommend understanding the approach and implementing the solution yourself instead of simply copying the code.
-
----
-
-## 🚀 Keep Coding
-
-```text
-"Consistency + Practice + Patience = Progress"
-
-Keep learning.
-Keep solving.
-Keep improving. 💻🔥
+                              🧠 DSA
+                                │
+          ┌─────────────────────┼─────────────────────┐
+          │                     │                     │
+       🔢 ARRAYS             🔤 STRINGS           🗺️ HASHING
+          │                     │                     │
+          └──────────────┬──────┴──────┬──────────────┘
+                         │             │
+                    🔍 SEARCH       🔄 SORT
+                         │             │
+                         └──────┬──────┘
+                                │
+                    ┌───────────┴───────────┐
+                    │                       │
+                 🔗 LIST                  📚 STACK
+                    │                       │
+                    └───────────┬───────────┘
+                                │
+                           🚶 QUEUE
+                                │
+                                ▼
+                            🌳 TREES
+                                │
+                                ▼
+                            🌐 GRAPHS
+                                │
+                                ▼
+                       💡 DYNAMIC PROGRAMMING
+                                │
+                                ▼
+                           🚀 ADVANCED DSA
 ```
 
 ---
 
-### 👨‍💻 Author
+## 🧩 `06 // PATTERNS I'M BUILDING`
 
-**Nitin Kumar**
-
-B.Tech Computer Science Engineering
+| Pattern             | What I'm learning                                             |
+| ------------------- | ------------------------------------------------------------- |
+| 🔢 Arrays           | Traversal, insertion, deletion, rotation, in-place operations |
+| 👥 Two Pointers     | Pairing, reversing, partitioning                              |
+| 🪟 Sliding Window   | Subarrays, substrings, optimized traversal                    |
+| 🗺️ Hashing         | Frequency, lookup, duplicates                                 |
+| 🔍 Binary Search    | Search space reduction                                        |
+| 🔄 Sorting          | Comparison, stability, optimization                           |
+| 📚 Stack            | LIFO, matching, monotonic stack                               |
+| 🚶 Queue            | FIFO, circular queue, deque                                   |
+| 🔗 Linked List      | Pointers, reversal, fast/slow                                 |
+| 🌳 Trees            | DFS, BFS, recursion, traversal                                |
+| 🌐 Graphs           | BFS, DFS, connectivity, shortest paths                        |
+| 💡 DP               | States, transitions, memoization, tabulation                  |
+| ⚡ Greedy            | Local choices and optimization                                |
+| 🔁 Recursion        | Base cases, recursive thinking                                |
+| 🧮 Bit Manipulation | XOR, shifts, masks, binary logic                              |
 
 ---
 
-⭐ If you find this repository useful, consider giving it a **star**!
+## ☕ `07 // PRIMARY WEAPON`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java" width="90" alt="Java">
+
+### JAVA
+
+`OOP` · `Collections` · `Recursion` · `DSA` · `Problem Solving`
+
+</div>
+
+---
+
+## 🧪 `08 // HOW A PROBLEM GETS SOLVED`
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│  01  LEARN      → Understand the concept                │
+│  02  READ       → What exactly is being asked?          │
+│  03  OBSERVE    → What pattern is hiding here?          │
+│  04  BRUTE      → Can I solve it simply first?          │
+│  05  OPTIMIZE   → Can I reduce time / space?            │
+│  06  CODE       → Clean Java implementation              │
+│  07  TEST       → Edge cases + constraints               │
+│  08  ANALYZE    → Time + Space complexity                │
+│  09  REVISE     → Can I solve it again without help?    │
+│  10  LEARN      → What can I reuse next time?            │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📈 `09 // COMPLEXITY RADAR`
+
+I don't stop at **Accepted / Solved**.
+
+I also ask:
+
+```text
+                 ┌──────────────┐
+                 │    SOLVED    │
+                 └──────┬───────┘
+                        ↓
+               ┌─────────────────┐
+               │   HOW FAST?     │
+               └────────┬────────┘
+                        ↓
+               ┌─────────────────┐
+               │   HOW MUCH      │
+               │     MEMORY?     │
+               └────────┬────────┘
+                        ↓
+               ┌─────────────────┐
+               │   CAN IT BE     │
+               │   OPTIMIZED?    │
+               └────────┬────────┘
+                        ↓
+               ┌─────────────────┐
+               │   CAN I         │
+               │   REUSE IT?     │
+               └─────────────────┘
+```
+
+### Complexity targets
+
+`O(1)` → `O(log n)` → `O(n)` → `O(n log n)` → `O(n²)`
+
+The goal isn't blindly chasing the smallest Big-O.
+
+The goal is understanding the **trade-off between time, space and simplicity**.
+
+---
+
+## 🏆 `10 // MILESTONES`
+
+<div align="center">
+
+| Level |     Target    | Status |
+| :---: | :-----------: | :----: |
+| 🟢 01 |  10 Problems  |   🔄   |
+| 🟢 02 |  25 Problems  |   🔄   |
+| 🟡 03 |  50 Problems  |   🔄   |
+| 🟡 04 |  100 Problems |   🔄   |
+| 🟠 05 |  250 Problems |   🔄   |
+| 🔴 06 |  500 Problems |   🔄   |
+| 🟣 07 | 1000 Problems |   🔄   |
+
+</div>
+
+> **The number is just a metric. The understanding is the real progress.**
+
+---
+
+## 📚 `11 // TOPIC ROADMAP`
+
+```text
+JAVA FUNDAMENTALS
+       │
+       ▼
+ARRAYS
+       │
+       ▼
+STRINGS
+       │
+       ▼
+SEARCHING + SORTING
+       │
+       ▼
+RECURSION
+       │
+       ▼
+LINKED LIST
+       │
+       ▼
+STACK + QUEUE
+       │
+       ▼
+HASHING
+       │
+       ▼
+TREES
+       │
+       ▼
+HEAPS
+       │
+       ▼
+GRAPHS
+       │
+       ▼
+GREEDY
+       │
+       ▼
+DYNAMIC PROGRAMMING
+       │
+       ▼
+ADVANCED DSA
+```
+
+---
+
+## 🔥 `12 // THE RULE`
+
+<div align="center">
+
+### ❌ Don't memorize the solution.
+
+### ❌ Don't copy code without understanding.
+
+### ❌ Don't fear Wrong Answer.
+
+<br>
+
+### ✅ Understand the pattern.
+
+### ✅ Write the logic yourself.
+
+### ✅ Dry run the code.
+
+### ✅ Debug your mistakes.
+
+### ✅ Analyze complexity.
+
+### ✅ Solve it again without help.
+
+</div>
+
+---
+
+## 🧬 `13 // CURRENT MINDSET`
+
+```text
+        WRONG ANSWER
+             │
+             ▼
+        "WHY FAILED?"
+             │
+             ▼
+        FIND THE BUG
+             │
+             ▼
+       UNDERSTAND IT
+             │
+             ▼
+        FIX THE LOGIC
+             │
+             ▼
+          SOLVED
+             │
+             ▼
+       KNOWLEDGE GAINED
+             │
+             ▼
+       PATTERN STORED
+```
+
+**A failed attempt is useful when the mistake becomes a lesson.**
+
+---
+
+## 🔁 `14 // REVISION LOOP`
+
+```text
+              SOLVE
+                │
+                ▼
+            UNDERSTAND
+                │
+                ▼
+             REVISE
+                │
+                ▼
+          SOLVE AGAIN
+                │
+                ▼
+        WITHOUT LOOKING
+                │
+                ▼
+          PATTERN MASTERED
+```
+
+> **If I can solve it again without looking at the solution, I actually learned it.**
+
+---
+
+## 🚀 `15 // LONG-TERM TARGET`
+
+```text
+JAVA
+ │
+ ▼
+CORE FUNDAMENTALS
+ │
+ ▼
+DATA STRUCTURES
+ │
+ ▼
+ALGORITHMS
+ │
+ ▼
+PATTERN RECOGNITION
+ │
+ ▼
+ADVANCED DSA
+ │
+ ▼
+PROBLEM SOLVING
+ │
+ ▼
+INTERVIEW PREPARATION
+ │
+ ▼
+💻 STRONG SOFTWARE ENGINEER
+```
+
+---
+
+## 🧠 `16 // WHAT I'M BUILDING`
+
+```text
+                 KNOWLEDGE
+                     │
+          ┌──────────┴──────────┐
+          │                     │
+       CONCEPT                PRACTICE
+          │                     │
+          └──────────┬──────────┘
+                     │
+                  PATTERNS
+                     │
+                     ▼
+                 PROBLEM
+                 SOLVING
+                     │
+                     ▼
+              LOGICAL THINKING
+                     │
+                     ▼
+             SOFTWARE ENGINEERING
+```
+
+---
+
+<div align="center">
+
+# `KEEP LEARNING.`
+
+### One concept.
+
+### One problem.
+
+### One mistake.
+
+### One improvement.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=LEARN%20%7C%20SOLVE%20%7C%20REPEAT&fontSize=26&fontColor=ffffff&animation=twinkling&color=gradient" alt="Animated footer">
+
+<br>
+
+### 👨‍💻 Nitin Kumar
+
+`B.Tech CSE` · `Java` · `DSA` · `Problem Solving`
+
+<br>
+
+⭐ **Star the repo if you want to follow the journey.**
+
+</div>
